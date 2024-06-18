@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="Special Days Properties">2da089e993560210bc11b61efaba1086</category>
+        <order>200</order>
+        <property display_value="x_58872_needit.daysNotice" name="x_58872_needit.daysNotice">c3c3c56193960210bc11b61efaba1055</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-20 21:39:10</sys_created_on>
+        <sys_id>2c84456193960210bc11b61efaba10bc</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_58872_needit.daysNotice.Special Days Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_2c84456193960210bc11b61efaba10bc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-20 21:39:57</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>
